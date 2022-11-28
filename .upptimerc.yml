@@ -19,7 +19,5 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-status-website: # Status website (optional)
   cname: up.oneboteam.live # Custom domain CNAME
   name: Uptime | 1-BT # Status website title
