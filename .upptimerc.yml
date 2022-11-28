@@ -20,3 +20,5 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+i18n:
+  footer: Uptime 1-BOT TEAM 
