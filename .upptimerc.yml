@@ -20,5 +20,6 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+status-website: # Status website (optional)
+  cname: up.oneboteam.live # Custom domain CNAME
+  name: Uptime | 1-BT # Status website title
