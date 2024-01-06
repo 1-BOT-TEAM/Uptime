@@ -4,7 +4,7 @@
     "url": "http://oneboteam.live/",
     "icon": "https://icons.duckduckgo.com/ip3/oneboteam.live.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 496,
     "timeYear": 248,
     "dailyMinutesDown": {
+      "2024-01-06": 0,
       "2023-06-06": 38
     }
   }
